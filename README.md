@@ -13,21 +13,20 @@ Full Specs:
 - SSD Samsung 250GB
 
 Working:
-- QE/CI with HiDPI Built-in Retina Display 
+- QE/CI 
 - Audio out
+- Mic in 
 - Touchpad
 - Battery Stats
-- Shutdown
+- Shutdown, Restart, Sleep, Wake with close & open LID
 - USB 3.0
 
 Not Working:
 - Bluetooth
 - Nvidia optimus (disabled)
-- Mic in 
 - Cardreader
 - iMess, FaceTime, etc
 
 Not Tested Yet:
 - HDMI
 - HDMI Audio
-- Restart, Sleep, Wake with close & open LID
