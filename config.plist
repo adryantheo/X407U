@@ -213,7 +213,7 @@
 				<key>AAPL,GfxYTile</key>
 				<data>AQAAAA==</data>
 				<key>AAPL,ig-platform-id</key>
-				<data>AADAhw==</data>
+				<data>CQAWWQ==</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
@@ -227,7 +227,7 @@
 				<key>enable-lspcon-support</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-alldata</key>
-				<data>AQUKAAAIAACHAQAAAgQKAAAIAACHAQAA/wAAAAEAAAAgAAAA</data>
+				<data>AQUJAAAIAADHAQAA</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-has-lspcon</key>
@@ -235,13 +235,11 @@
 				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
 				<key>framebuffer-con2-alldata</key>
-				<data>AQUKAAAIAACHAQAAAwYKAAAEAACHAQAA/wAAAAEAAAAgAAAA</data>
+				<data>AgQKAAAIAADHAQAA</data>
 				<key>framebuffer-con2-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con2-has-lspcon</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con2-index</key>
-				<data>/////w==</data>
 				<key>framebuffer-con2-type</key>
 				<data>AAgAAA==</data>
 				<key>framebuffer-fbmem</key>
@@ -1054,7 +1052,7 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string>Mac-CAD6701F7CEA0921</string>
+			<string>Mac-B4831CEBD52A0C4C</string>
 			<key>BoardRevision</key>
 			<data>Gw==</data>
 			<key>DevicePathsSupported</key>
@@ -1068,17 +1066,17 @@
 			<key>SmcBranch</key>
 			<data>MjAxN21icAA=</data>
 			<key>SmcPlatform</key>
-			<data>ajc5YQAAAAA=</data>
+			<data>ajEzMGEAAAA=</data>
 			<key>SmcRevision</key>
-			<data>AkQPAAAF</data>
+			<data>AkMPAAAQ</data>
 			<key>StartupPowerEvents</key>
 			<integer>0</integer>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,2</string>
+			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V10G7HV2N</string>
+			<string>C02THQYDHV29</string>
 			<key>SystemUUID</key>
-			<string>8AEC22F9-7BB8-4097-9B14-9DC6D8C7FC74</string>
+			<string>D2DAFE16-4194-4065-A992-AA91A8859FB2</string>
 		</dict>
 		<key>Generic</key>
 		<dict>
@@ -1087,9 +1085,9 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02727802J9HRPC1F</string>
+			<string>C02713401QXHWVPJA</string>
 			<key>ProcessorType</key>
-			<integer>1541</integer>
+			<integer>1537</integer>
 			<key>ROM</key>
 			<data>vEq14z2u</data>
 			<key>SpoofVendor</key>
@@ -1097,37 +1095,37 @@
 			<key>SystemMemoryStatus</key>
 			<string>Upgradable</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,2</string>
+			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V10G7HV2N</string>
+			<string>C02THQYDHV29</string>
 			<key>SystemUUID</key>
-			<string>8AEC22F9-7BB8-4097-9B14-9DC6D8C7FC74</string>
+			<string>D2DAFE16-4194-4065-A992-AA91A8859FB2</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-CAD6701F7CEA0921</string>
+			<string>Mac-B4831CEBD52A0C4C</string>
 			<key>FirmwareFeatures</key>
 			<data>fvUP/wgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
 			<data>f/8f/wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02727802J9HRPC1F</string>
+			<string>C02713401QXHWVPJA</string>
 			<key>ROM</key>
 			<data>vEq14z2u</data>
 			<key>SystemSerialNumber</key>
-			<string>C02V10G7HV2N</string>
+			<string>C02THQYDHV29</string>
 			<key>SystemUUID</key>
-			<string>8AEC22F9-7BB8-4097-9B14-9DC6D8C7FC74</string>
+			<string>D2DAFE16-4194-4065-A992-AA91A8859FB2</string>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
 			<key>BIOSReleaseDate</key>
-			<string>09/13/2019</string>
+			<string>03/16/2022</string>
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>MBP142.88Z.F000.B00.1909131802</string>
+			<string>451.120.7.0.0</string>
 			<key>BoardAssetTag</key>
 			<string>Base Board Asset Tag</string>
 			<key>BoardLocationInChassis</key>
@@ -1135,23 +1133,23 @@
 			<key>BoardManufacturer</key>
 			<string></string>
 			<key>BoardProduct</key>
-			<string>Mac-CAD6701F7CEA0921</string>
+			<string>Mac-B4831CEBD52A0C4C</string>
 			<key>BoardSerialNumber</key>
-			<string>C02727802J9HRPC1F</string>
+			<string>C02713401QXHWVPJA</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
-			<string>MacBookPro14,2</string>
+			<string>MacBookPro14,1</string>
 			<key>ChassisAssetTag</key>
 			<string>Asset Tag#</string>
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02V10G7HV2N</string>
+			<string>C02THQYDHV29</string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
-			<string>Mac-CAD6701F7CEA0921</string>
+			<string>Mac-B4831CEBD52A0C4C</string>
 			<key>FirmwareFeatures</key>
 			<data>fvUP/wgAAAA=</data>
 			<key>FirmwareFeaturesMask</key>
@@ -1159,7 +1157,7 @@
 			<key>PlatformFeature</key>
 			<integer>26</integer>
 			<key>ProcessorType</key>
-			<integer>1541</integer>
+			<integer>1537</integer>
 			<key>SmcVersion</key>
 			<data></data>
 			<key>SystemFamily</key>
@@ -1167,13 +1165,13 @@
 			<key>SystemManufacturer</key>
 			<string></string>
 			<key>SystemProductName</key>
-			<string>MacBookPro14,2</string>
+			<string>MacBookPro14,1</string>
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VT5YTHV2N</string>
+			<string>C02THQYDHV29</string>
 			<key>SystemUUID</key>
-			<string>D7E4105C-7EEC-4DF3-A924-BF58A9D5B209</string>
+			<string>D2DAFE16-4194-4065-A992-AA91A8859FB2</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
