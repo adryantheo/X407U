@@ -20,6 +20,7 @@ Working:
 - Battery Stats
 - Shutdown, Restart, Sleep, Wake with close & open LID
 - USB 3.0
+- HDMI
 
 Not Working:
 - Bluetooth
@@ -28,5 +29,4 @@ Not Working:
 - iMess, FaceTime, etc
 
 Not Tested Yet:
-- HDMI
 - HDMI Audio
