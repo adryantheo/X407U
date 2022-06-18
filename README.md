@@ -20,13 +20,10 @@ Working:
 - Battery Stats
 - Shutdown, Restart, Sleep, Wake with close & open LID
 - USB 3.0
-- HDMI
+- HDMI + Audio
 
 Not Working:
 - Bluetooth
 - Nvidia optimus (disabled)
 - Cardreader
 - iMess, FaceTime, etc
-
-Not Tested Yet:
-- HDMI Audio
